@@ -1,8 +1,8 @@
-# Shelly Internet Watchdog
+# Shelly Auto-Rebooter
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Shelly Internet Watchdog** is a set of open-source scripts designed for Shelly devices (such as Shelly Plug or Shelly 1) to monitor your modem and router connectivity. The scripts periodically ping external endpoints and send notifications via Telegram if connectivity degrades. If a device fails to respond after a configurable number of attempts, the script will automatically trigger a reboot of that device.
+**Shelly Auto-Rebooter** is a set of open-source scripts designed for Shelly devices (such as Shelly Plug or Shelly 1) to monitor your modem and router connectivity. The scripts periodically ping external endpoints and send notifications via Telegram if connectivity degrades. If a device fails to respond after a configurable number of attempts, the script will automatically trigger a reboot of that device.
 
 > **Note:** Two separate Shelly devices are required—one for your modem and one for your router. Each device is controlled independently.
 
