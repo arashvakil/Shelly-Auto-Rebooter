@@ -10,8 +10,8 @@ let CONFIG = {
   startupDelay: 600,               // 10-minute delay to wait for router
   jitterRange: 5,
   rebootCooldown: 30 * 60 * 1000,  // 30-minute cooldown between reboots
-  telegramBotToken: "Your_Telegram_Bot_Token",
-  telegramChatId: "Your_Telegram_Chat_ID"
+  telegramBotToken: "YOUR_TELEGRAM_BOT_TOKEN",
+  telegramChatId: "YOUR_TELEGRAM_CHAT_ID"
 };
 
 // Define device name and location for the modem
