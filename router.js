@@ -16,7 +16,7 @@ let CONFIG = {
 
 // Define device name and location for the router
 let deviceName = "Router";         // Change to your actual router name
-let location = "Flushing";         // Change to your desired location
+let location = "Home";             // Change to your desired location
 
 let endpointIdx = 0;
 let failCounter = 0;

@@ -16,7 +16,7 @@ let CONFIG = {
 
 // Define device name and location for the modem
 let deviceName = "Modem";     // Change as needed
-let location = "Astoria";     // Change as needed
+let location = "Home";        // Change as needed
 
 let endpointIdx = 0;
 let failCounter = 0;

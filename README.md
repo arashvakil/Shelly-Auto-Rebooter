@@ -166,12 +166,12 @@ Here's what you can expect to see in your Telegram chat:
 
 | Event | Example Message |
 |-------|-----------------|
-| **Script Started** | ✅ Modem (Astoria): Wi-Fi ready at 2025-01-15 10:30:00 |
-| **Watchdog Active** | ✅ Modem (Astoria): Modem Ping Watchdog started at 2025-01-15 10:40:00 |
-| **Ping Failed** | ❌ Router (Flushing): Ping failed to https://global.gcping.com/ping at 2025-01-15 14:22:15 |
-| **Reboot Triggered** | 🔥 Modem (Astoria): Too many failures. Rebooting modem at 2025-01-15 14:25:00 |
-| **Cooldown Active** | ⏳ Router (Flushing): Failure threshold reached, but reboot skipped (cooldown). |
-| **Device Back Online** | ✅ Modem (Astoria): Modem plug powered on. Waiting 600 seconds to resume pings. |
+| **Script Started** | ✅ Modem (Home): Wi-Fi ready at 2025-01-15 10:30:00 |
+| **Watchdog Active** | ✅ Modem (Home): Modem Ping Watchdog started at 2025-01-15 10:40:00 |
+| **Ping Failed** | ❌ Router (Home): Ping failed to https://global.gcping.com/ping at 2025-01-15 14:22:15 |
+| **Reboot Triggered** | 🔥 Modem (Home): Too many failures. Rebooting modem at 2025-01-15 14:25:00 |
+| **Cooldown Active** | ⏳ Router (Home): Failure threshold reached, but reboot skipped (cooldown). |
+| **Device Back Online** | ✅ Modem (Home): Modem plug powered on. Waiting 600 seconds to resume pings. |
 
 ## Troubleshooting
 
